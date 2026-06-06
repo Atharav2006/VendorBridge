@@ -8,6 +8,11 @@
 
 VendorBridge is an enterprise-grade SaaS platform designed to streamline and automate the entire procurement lifecycle. From vendor onboarding and Request For Quotations (RFQs), to Purchase Order (PO) generation and Invoice reconciliation, VendorBridge provides an intelligent, automated, and cryptographically auditable pipeline for high-level finance and procurement teams.
 
+## 🎥 Demo Video
+
+Watch our complete platform walkthrough:
+[**demo video.mp4**](#) *(Replace this # with your Google Drive / YouTube link)*
+
 ## 🌟 Key Features
 
 *   **Role-Based Access Control (RBAC):** Tailored dashboards and permissions for **Admins, Finance Managers, Procurement Officers, and Vendors**.
