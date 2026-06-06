@@ -1,0 +1,1 @@
+{"message":"Cannot read properties of undefined (reading 'recipientEmail')","stack":"TypeError: Cannot read properties of undefined (reading 'recipientEmail')\n    at exports.emailInvoice (C:\\Users\\ATHARAV\\Documents\\Hackathon\\VendorBridge\\Backend\\controllers\\invoiceController.js:134:37)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
