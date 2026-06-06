@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Frontend/public/favicon.svg" alt="VendorBridge Logo" width="120" />
+  <img src="./logo.png" alt="VendorBridge Logo" width="200" />
   <h1>VendorBridge</h1>
   <p><strong>Next-Generation Enterprise Procurement & Vendor Management Platform</strong></p>
 </div>
