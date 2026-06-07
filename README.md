@@ -11,7 +11,7 @@ VendorBridge is an enterprise-grade SaaS platform designed to streamline and aut
 ## 🎥 Demo Video
 
 Watch our complete platform walkthrough:
-[**demo video.mp4**](#) *(Replace this # with your Google Drive / YouTube link)*
+[**demo video.mp4**](#) *https://drive.google.com/drive/folders/1JbN0sbF8_QpN1hxfF-SieA1fHvYAPA2A*
 
 ## 🌟 Key Features
 
